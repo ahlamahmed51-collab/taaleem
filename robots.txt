@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://taaleem-wine.vercel.app/sitemap.xml
